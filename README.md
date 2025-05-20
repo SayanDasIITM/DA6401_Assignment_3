@@ -197,7 +197,7 @@ Contributions and issues are welcome! Please open a GitHub Issue or Pull Request
 
 *Link to the full WandB report and dashboards:*
 
-\[[Insert W\&B Report Link Here](https://wandb.ai/cs24m044-iit-madras-alumni-association/DA6401_Assignment3/reports/Assignment-3--VmlldzoxMjgzNjk0OQ?accessToken=4wjpdjlyq88y0mvuhs7i18648uhtakqgwiypezijnkj7wnagbfmrnfc1b6l17aef)]
+\[[WANDB Report Link](https://wandb.ai/cs24m044-iit-madras-alumni-association/DA6401_Assignment3/reports/Assignment-3--VmlldzoxMjgzNjk0OQ?accessToken=4wjpdjlyq88y0mvuhs7i18648uhtakqgwiypezijnkj7wnagbfmrnfc1b6l17aef)]
 
 ---
 
